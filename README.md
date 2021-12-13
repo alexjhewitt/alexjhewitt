@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex Hewitt!
-- 👀 I’m interested in Python and Java.
-- 🌱 I’m currently learning many things as a Computer Science Undergraduate attending WGU.
+- 👀 I’m interested in Python and Front-End Web Development.
+- 🌱 I have a two Bachelor degrees - One from Iowa State University in MIS and most recently a Computer Science degree from Western Governors University.
 
 <!---
 hewittaj/hewittaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
