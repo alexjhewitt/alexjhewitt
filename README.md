@@ -1,7 +1,3 @@
-- 👋 Hi, I’m Alex Hewitt!
-- 👀 I’m interested in Python and Front/Back-End Web Development.
-
-
 # Projects
 
 ## The Odin Project (HTML, CSS, JavaScript, etc.)
